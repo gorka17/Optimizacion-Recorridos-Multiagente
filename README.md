@@ -51,7 +51,8 @@ Este proyecto me ha permitido:
 ## 📂 Organización del repositorio
 - **`demo_1.py` … `demo_7.py`:** scripts que muestran *renders* de los recorridos realizados por los agentes en diferentes escenarios y configuraciones.  
 - **`base.py` y `utils.py`:** módulos que contienen elementos clave en la creación de entornos y en la definición del comportamiento de los agentes.  
-- **`train.py`:** scripts responsables de lanzar los entrenamientos de los agentes en los distintos entornos.  
+- **`train.py`:** scripts responsables de lanzar los entrenamientos de los agentes en los distintos entornos.
+- **`env_logistic_v0.py` … `env_logistic_v2.py`**: Entornos multiagente creados desde la versión inicial más sencilla hasta la versión final.
 
 ---
 
