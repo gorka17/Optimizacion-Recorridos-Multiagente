@@ -32,4 +32,4 @@ Este proyecto me ha permitido:
 ---
 
 ## Ejemplo del aprendizaje de tres agentes colaborando
-![Ruta optimizada](ejemplo_ruta.png)
+![Ruta optimizada](Images/ejemplo_ruta.png)
