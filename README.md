@@ -25,12 +25,11 @@ Este proyecto me ha permitido:
 
 ---
 
-## 📂 Recursos
+## Recursos
 - Repositorio base: [MultiAgentSB3](https://github.com/inakivazquez/MultiAgentSB3)  
 - Frameworks utilizados: Stable-Baselines3 (SB3), Gym  
 
 ---
 
-## 📸 Ejemplo de ruta optimizada
+## Ejemplo del aprendizaje de tres agentes colaborando
 ![Ruta optimizada](ejemplo_ruta.png)
-
